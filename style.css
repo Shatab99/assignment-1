@@ -272,7 +272,7 @@ span{
 .instagram-head {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 10px;
-    margin-left: 580px;
+    margin-left: 614px;
 
 }
 
@@ -281,16 +281,16 @@ span{
     text-align: center;
     width: 392px;
     font-size: small;
-    margin-left: 441px;
+    margin-left: 472px;
     margin-top: 10px;
 }
 
 .instagram-img {
     display: flex;
     margin-top: 27px;
-    margin-left: 259px;
+    margin-left: 250px;
     width: 100px;
-    height: 200px;
+    height: 230px;
 }
 
 .ins-img-1 {
@@ -310,13 +310,14 @@ span{
 
 .deals {
     position: absolute;
-    top: 2000px;
+    top: 2050px;
 }
 
 .deals-img {
-    width: 999px;
-    height: 265px;
-    margin-left: 152px;
+    margin-top: 10px;
+    width: 872px;
+    height: 260px;
+    margin-left: 231px;
 }
 
 .deals-head {
@@ -367,8 +368,8 @@ span{
 .footer{
     position: absolute;
     background-color: #111010;
-    top: 2330px;
-    width:1285px;
+    top: 2390px;
+    width:1295px;
     height: 250px;
 }
 
