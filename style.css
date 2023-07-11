@@ -364,11 +364,85 @@ span{
     color: #FFF;
 }
 
+/* Additional Section */
+
+.order{
+    position: absolute;
+    background-color: #f4a7b8;
+    top: 2390px ;
+    width: 872px;
+    height: 350px;
+    margin-left: 231px;
+    border-radius: 12px ;
+
+}
+
+.order-header{
+    margin-top: 52px;
+    margin-left: 311px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #272727;
+
+}
+
+.order-des{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: smaller;
+    color: #FFF;
+    margin-top: 10px;
+    margin-left: 354px;
+}
+
+.order-form{
+    margin-top: 19px;
+    margin-left: 331px;
+}
+.order-name{
+    padding: 10px 50px 10px 5px;
+    border-radius: 5px;
+    border: 0px;
+}
+.order-address{
+    margin-top: 5px;
+    padding: 10px 50px 10px 5px;
+    border-radius: 5px;
+    border: 0px;
+}
+
+.order-flower{
+    margin-top: 10px;
+    margin-left: 2px;
+}
+
+.choose-flower{
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+
+.txt-choice{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+.order-btn{
+    background-color: #E55473;
+    border: 0px;
+    margin-top: 10px;
+    margin-left: 67px;
+    padding: 10px 20px;
+    border-radius: 4px;
+
+}
+
+
+
+/* Footer */
 
 .footer{
     position: absolute;
     background-color: #111010;
-    top: 2390px;
+    top: 2800px;
     width:1295px;
     height: 250px;
 }
